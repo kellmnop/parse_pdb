@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Search Class I MHC</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<script src="jquery-3.3.1.min.js"></script>
+		<!--<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>-->
+		<script src="queryform.js"></script>
+	</head>
+	<body id="top">
+		<!-- Header -->
+		<!-- Banner -->
+		<form>
+			<table style="margin:auto;">
+			<tr>
+				<th><label for="organism">Organism</label></th>
+				<th><label for="class">Class</label></th>
+				<th><label for="gene">Gene</label></th>
+				<th><label for="allele"></label>Allele</th>
+				<th><label for="serotype">Serotype</label></th>
+			</tr>
+			<tr>
+				<td><select id="organism" name="organism">
+					<option value="" disabled selected>Select Organism</option>
+					<option value="hsapien"><i>Homo sapien</i></option>
+					<option value="mmusculus"><i>Mus musculus</i></option>
+				</select></td>
+				<td><select id="class" disabled>
+					<option value="" disabled selected>Select Class</option>
+					<option value="classI">Class I</option>
+					<option value="classII">Class II</option>
+				</select></td>
+				<td><select id="gene" name="gene">
+					<option value="" disabled selected>N/A</option>
+				</select></td>
+				<td><select id="allele" name="allele">
+					<option value="" disabled selected>N/A</option>
+				</select></td>
+				<td><select id="serotype" name="serotype">
+					<option value="" disabled selected>N/A</option>
+				</select></td>
+			</tr>
+			
+					<!--
+					
+					-->
+			</table>
+		</form>
+	</body>
+</html>

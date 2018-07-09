@@ -1,0 +1,31 @@
+{
+	"genes" : {
+		"hsapienclassI": "HLA-A,HLA-B,HLA-C,HLA-D,HLA-E,HLA-F",
+		"hsapienclassII": "HLA-DP,HLA-DM,HLA-DOA,HLA-DOB,HLA-DQ,HLA-DR",
+		"mmusculusclassI": "H-2A,H-2K,H-2D,H-2L",
+		"mmusculusclassII": "I-A,I-E"
+	}
+	"alleles" : {
+		"HLA-A":
+		"HLA-B":
+		"HLA-C":
+		"HLA-D":
+		"HLA-E":
+		"HLA-F":
+		"HLA-DP":
+		"HLA-DM"
+		"HLA-DOA"
+		"HLA-DOB"
+		"HLA-DQ"
+		"HLA-DR"
+		"H-2A":
+		"H-2K":
+		"H-2D":
+		"H-2L":
+		"I-A":
+		"I-E":
+	}
+	"uniprot" : {
+		
+	}
+}
