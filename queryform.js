@@ -108,17 +108,11 @@ $("#first-choice").change(function() {
 });
 */
 
-var asdf=''
-
-/*
-
-
+// test data
+var asdf={
   "H-2K": "H-2Kb,H-2Kd,H-2Kk,",
   "H-2D": "H-2Db,H-2Dd,H-2Dk,",
   "H-2L": "H-2Ld",
   "H-2A": "H-2Aa",
   "I-A": "I-Ab,I-Ad,I-Ak,I-As",
-  "I-E": "I-Ed,I-Ek",
-  
-}
-*/
+  "I-E": "I-Ed,I-Ek"}

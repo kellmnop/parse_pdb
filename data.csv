@@ -1,5 +1,5 @@
 Organism,Class,Gene,Allele,Serotype,UniprotIDa,UniprotIDb
-homosapien,classI,HLA-A,HLA-A*01,HLA-A*01:01,,P61769
+homosapien,classI,HLA-A,HLA-A*01,HLA-A*01:01,P30443,P61769
 homosapien,classI,HLA-A,HLA-A*02,HLA-A*02:01,P01892,P61769
 homosapien,classI,HLA-A,HLA-A*02,HLA-A*02:03,,P61769
 homosapien,classI,HLA-A,HLA-A*02,HLA-A*02:06,,P61769
@@ -17,7 +17,7 @@ homosapien,classI,HLA-A,HLA-A*31,HLA-A*31:01,,P61769
 homosapien,classI,HLA-A,HLA-A*32,HLA-A*32:01,,P61769
 homosapien,classI,HLA-A,HLA-A*33,HLA-A*33:03,,P61769
 homosapien,classI,HLA-A,HLA-A*34,HLA-A*34:02,,P61769
-homosapien,classI,HLA-A,HLA-A*68,HLA-A*68:01,,P61769
+homosapien,classI,HLA-A,HLA-A*68,HLA-A*68:01,P01891,P61769
 homosapien,classI,HLA-A,HLA-A*68,HLA-A*68:02,,P61769
 homosapien,classI,HLA-A,HLA-A*74,HLA-A*74:01,,P61769
 homosapien,classI,HLA-B,HLA-B*07,HLA-B*07:02,,P61769
@@ -28,7 +28,7 @@ homosapien,classI,HLA-B,HLA-B*15,HLA-B*15:01,,P61769
 homosapien,classI,HLA-B,HLA-B*15,HLA-B*15:02,,P61769
 homosapien,classI,HLA-B,HLA-B*15,HLA-B*15:03,,P61769
 homosapien,classI,HLA-B,HLA-B*18,HLA-B*18:01,,P61769
-homosapien,classI,HLA-B,HLA-B*27,HLA-B*27:05,,P61769
+homosapien,classI,HLA-B,HLA-B*27,HLA-B*27:05,P03989,P61769
 homosapien,classI,HLA-B,HLA-B*35,HLA-B*35:01,P30685,P61769
 homosapien,classI,HLA-B,HLA-B*35,HLA-B*35:08,,P61769
 homosapien,classI,HLA-B,HLA-B*38,HLA-B*38:02,,P61769
@@ -41,7 +41,7 @@ homosapien,classI,HLA-B,HLA-B*44,HLA-B*44:03,,P61769
 homosapien,classI,HLA-B,HLA-B*45,HLA-B*45:01,,P61769
 homosapien,classI,HLA-B,HLA-B*46,HLA-B*46:01,,P61769
 homosapien,classI,HLA-B,HLA-B*49,HLA-B*49:01,,P61769
-homosapien,classI,HLA-B,HLA-B*51,HLA-B*51:01,,P61769
+homosapien,classI,HLA-B,HLA-B*51,HLA-B*51:01,P18464,P61769
 homosapien,classI,HLA-B,HLA-B*52,HLA-B*52:01,,P61769
 homosapien,classI,HLA-B,HLA-B*53,HLA-B*53:01,P30491,P61769
 homosapien,classI,HLA-B,HLA-B*54,HLA-B*54:01,,P61769
@@ -66,6 +66,9 @@ homosapien,classI,HLA-C,HLA-C*14,HLA-C*14:02,,P61769
 homosapien,classI,HLA-C,HLA-C*16,HLA-C*16:01,,P61769
 homosapien,classI,HLA-C,HLA-C*17,HLA-C*17:01,,P61769
 homosapien,classI,HLA-C,HLA-C*18,HLA-C*18:01,,P61769
+homosapien,classI,HLA-C,HLA-Cw,HLA-Cw*3,P04222,P61769
+homosapien,classI,HLA-C,HLA-Cw,HLA-Cw*4,P30504,P61769
+homosapien,classI,HLA-E,null,null,P13747,P61769
 homosapien,classII,HLA-DP,null,null,,
 homosapien,classII,HLA-DM,null,null,P28067,P28068
 homosapien,classII,HLA-DO,null,null,P06340,P13765
@@ -80,7 +83,7 @@ musmusculus,classI,H-2K,H-2Kq,null,,P01887
 musmusculus,classI,H-2K,H-2Ks,null,,P01887
 musmusculus,classI,H-2K,H-2Ku,null,,P01887
 musmusculus,classI,H-2K,H-2Kv,null,,P01887
-musmusculus,classI,H-2D,H-2Db,null,,P01887
+musmusculus,classI,H-2D,H-2Db,null,P01899,P01887
 musmusculus,classI,H-2D,H-2Dd,null,P01900,P01887
 musmusculus,classI,H-2D,H-2Dk,null,,P01887
 musmusculus,classI,H-2D,H-2Dp,null,,P01887
@@ -97,6 +100,8 @@ musmusculus,classI,H-2L,H-2Lr,null,,P01887
 musmusculus,classI,H-2L,H-2Ls,null,,P01887
 musmusculus,classI,H-2L,H-2Lv,null,,P01887
 musmusculus,classI,H-2L,H-2Lz,null,,P01887
+musmusculus,classI,H-2M,H-2M3,null,Q31093,P01887
+musmusculus,classI,H-2Q,H-2Q7,null,P14429,P01887
 musmusculus,classII,I-A,I-Ab,null,,
 musmusculus,classII,I-A,I-Ad,null,,
 musmusculus,classII,I-A,I-Af,null,,
@@ -117,3 +122,6 @@ musmusculus,classII,I-E,I-Eq,null,,
 musmusculus,classII,I-E,I-Er,null,,
 musmusculus,classII,I-E,I-Eu,null,,
 musmusculus,classII,I-E,I-Ev,null,,
+,,,,,,
+rattusnorvegicus,classI,RT1,RT1-A,RT1-Aa,P16391,
+rattusnorvegicus,classI,RT1,RT1-A,RT1.A1(C),Q95565,
